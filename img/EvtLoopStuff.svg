@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
+    </pattern>
+    <linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="108.301" y1="367.366" x2="108.301" y2="424.618" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgb(236, 255, 170);"/>
+      <stop offset="1" style="stop-color: rgb(173, 226, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="108.301" y1="367.366" x2="108.301" y2="424.618" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgb(236, 255, 170);"/>
+      <stop offset="1" style="stop-color: rgb(173, 226, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="108.301" y1="367.366" x2="108.301" y2="424.618" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgb(236, 255, 170);"/>
+      <stop offset="1" style="stop-color: rgb(173, 226, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-4" gradientUnits="userSpaceOnUse" x1="108.301" y1="367.366" x2="108.301" y2="424.618" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgb(236, 255, 170);"/>
+      <stop offset="1" style="stop-color: rgb(173, 226, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-5" gradientUnits="userSpaceOnUse" x1="108.301" y1="367.366" x2="108.301" y2="424.618" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgb(236, 255, 170);"/>
+      <stop offset="1" style="stop-color: rgb(173, 226, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-6" gradientUnits="userSpaceOnUse" x1="108.301" y1="367.366" x2="108.301" y2="424.618" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgb(236, 255, 170);"/>
+      <stop offset="1" style="stop-color: rgb(173, 226, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-7" gradientUnits="userSpaceOnUse" x1="108.301" y1="367.366" x2="108.301" y2="424.618" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgb(236, 255, 170);"/>
+      <stop offset="1" style="stop-color: rgb(173, 226, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-8" gradientUnits="userSpaceOnUse" x1="108.301" y1="367.366" x2="108.301" y2="424.618" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgb(236, 255, 170);"/>
+      <stop offset="1" style="stop-color: rgb(173, 226, 0);"/>
+    </linearGradient>
+  </defs>
+  <rect x="-0.262" y="-0.338" width="500" height="500" style="fill: rgb(255, 255, 255);"/>
+  <g transform="matrix(1, 0, 0, 1, -23, -188)">
+    <rect x="44.847" y="367.366" width="126.908" height="57.252" style="fill: url(#gradient-2); fill-rule: evenodd; stroke-width: 2px; stroke: rgb(51, 51, 51);"/>
+    <text style="fill: rgb(85, 85, 85); font-size: 24px; white-space: pre;" x="69.656" y="400.763" dx="-18.13" dy="2.863">Fn()</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -15, 127)">
+    <path style="stroke: rgb(255, 85, 0); stroke-width: 5px; fill: none;" d="M 276.718 66.794 C 292.721 66.795 302.721 84.118 294.719 97.977 C 286.717 111.835 266.714 111.834 258.713 97.975 C 254.161 90.09 255.27 80.16 261.45 73.473"/>
+    <path d="M 319.657 125.911 L 328.784 141.72 L 310.529 141.72 L 319.657 125.911 Z" style="fill: rgb(255, 85, 0);" transform="matrix(0.72353, 0.690293, -0.690293, 0.72353, 122.622101, -242.271637)" bx:shape="triangle 310.529 125.911 18.255 15.809 0.5 0 1@cbe929ee"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -23, -251)">
+    <rect x="44.847" y="367.366" width="126.908" height="57.252" style="fill-rule: evenodd; stroke-width: 2px; stroke: rgb(51, 51, 51); fill: url(#gradient-1);"/>
+    <text style="fill: rgb(85, 85, 85); font-size: 24px; white-space: pre;" x="69.656" y="400.763" dx="-18.13" dy="2.863">Fn()</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -23, -313)">
+    <rect x="44.847" y="367.366" width="126.908" height="57.252" style="fill-rule: evenodd; stroke-width: 2px; stroke: rgb(51, 51, 51); fill: url(#gradient-3);"/>
+    <text style="fill: rgb(85, 85, 85); font-size: 24px; white-space: pre;" x="69.656" y="400.763" dx="-18.13" dy="2.863">Fn()</text>
+  </g>
+  <rect x="15.738" y="10.662" width="141" height="341" style="fill: none; stroke: rgb(0, 0, 0);"/>
+  <g transform="matrix(1, 0, 0, 1, -23, -126)">
+    <rect x="44.847" y="367.366" width="126.908" height="57.252" style="fill-rule: evenodd; stroke-width: 2px; stroke: rgb(51, 51, 51); fill: url(#gradient-4);"/>
+    <text style="fill: rgb(85, 85, 85); font-size: 24px; white-space: pre;" x="69.656" y="400.763" dx="-18.13" dy="2.863">Fn()</text>
+  </g>
+  <text x="30.738" y="328.662" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;">The Stack</text>
+  <rect x="9.738" y="363.662" width="480" height="126" style="stroke: rgb(0, 0, 0); fill: rgb(130, 167, 226);"/>
+  <g>
+    <rect x="14.738" y="393.662" width="137" height="92" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <g transform="matrix(1, 0, 0, 1, -26, 56)">
+      <rect x="44.847" y="367.366" width="126.908" height="57.252" style="fill-rule: evenodd; stroke-width: 2px; stroke: rgb(51, 51, 51); fill: url(#gradient-5);"/>
+      <text style="fill: rgb(85, 85, 85); font-size: 24px; white-space: pre;" x="69.656" y="400.763" dx="-18.13" dy="2.863">Fn()</text>
+    </g>
+  </g>
+  <text x="18.738" y="387.662" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;">The Queue</text>
+  <g transform="matrix(1, 0, 0, 1, 144, -1)">
+    <rect x="14.738" y="393.662" width="137" height="92" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <g transform="matrix(1, 0, 0, 1, -26, 56)">
+      <rect x="44.847" y="367.366" width="126.908" height="57.252" style="fill-rule: evenodd; stroke-width: 2px; stroke: rgb(51, 51, 51); fill: url(#gradient-6);"/>
+      <text style="fill: rgb(85, 85, 85); font-size: 24px; white-space: pre;" x="69.656" y="400.763" dx="-18.13" dy="2.863">Fn()</text>
+    </g>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 288, -1)">
+    <rect x="14.738" y="393.662" width="137" height="92" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <g transform="matrix(1, 0, 0, 1, -26, 56)">
+      <rect x="44.847" y="367.366" width="126.908" height="57.252" style="fill-rule: evenodd; stroke-width: 2px; stroke: rgb(51, 51, 51); fill: url(#gradient-7);"/>
+      <text style="fill: rgb(85, 85, 85); font-size: 24px; white-space: pre;" x="69.656" y="400.763" dx="-18.13" dy="2.863">Fn()</text>
+    </g>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 340, -335)">
+    <rect x="14.738" y="393.662" width="137" height="92" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <g transform="matrix(1, 0, 0, 1, -26, 56)">
+      <rect x="44.847" y="367.366" width="126.908" height="57.252" style="fill-rule: evenodd; stroke-width: 2px; stroke: rgb(51, 51, 51); fill: url(#gradient-8);"/>
+      <text style="fill: rgb(85, 85, 85); font-size: 24px; white-space: pre;" x="69.656" y="400.763" dx="-18.13" dy="2.863">Fn()</text>
+    </g>
+  </g>
+  <text x="355.738" y="27.662" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;">Events<tspan x="355.7380065917969" dy="1em">​</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-size: 12px; white-space: pre;" x="360.738" y="47.662">Timers, Callbacks</text>
+</svg>
