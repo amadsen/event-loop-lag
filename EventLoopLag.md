@@ -72,5 +72,71 @@ Functions don't go in the queue until they are ready to run!
 ----
 
 ```javascript
-// TODO: sample code
+// TODO: see sample code
 ```
+
+---
+
+## What causes lag?
+
+----
+
+obviously, a long count
+
+----
+
+### Blocking functions
+
+```javascript
+const fs = require('fs');
+
+const data = fs.readSync('some/file');
+```
+
+----
+
+### Blocking functions
+
+```javascript
+const json = require('some/really/large/file.json');
+```
+
+----
+
+### Synchronous functions
+
+```javascript
+const jsObj = {
+  // ... a really big object tree
+};
+
+const json = JSON.stringify(jsObj);
+```
+
+----
+
+### Synchronous functions
+
+```javascript
+const json = `{
+  // ... a really big object tree
+}`;
+
+const jsObj = JSON.parse(json);
+```
+
+----
+
+### Synchronous functions
+
+```javascript
+const jsObj = {
+  // ... a really big object tree
+};
+
+process.send(jsObj);
+```
+
+----
+
+etc.
